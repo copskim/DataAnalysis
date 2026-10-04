@@ -1,7 +1,7 @@
 ## Data Analysis Studies
 ### IBM Data Analyst Professional Certificate Capstone Project  
 Jupiter Notebook Files(*.IPYNB)
-#### 1. Stack Overflow Survey 2025.ipynb[see the file](./Stack Overflow Survey 2025.ipynb)
+#### 1. Stack Overflow Survey 2025.ipynb  [see the file](./Stack Overflow Survey 2025.ipynb)
 Each column was investigated and the analysis output was listed.(Total 172 columns)
 #### 2. C9M1L1 - PY0101EN-5.ipynb
 #### 3. C9M1L2 - Collecting_Jobs_data_Using_API-Questions.ipynb
